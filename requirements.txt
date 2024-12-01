@@ -2,10 +2,18 @@ pandas
 numpy
 seaborn
 matplotlib
+warnings
 scikit-learn
 catboost
 xgboost
 dill
 pickle 
 flask
--e .
+os
+sys
+dataclasses
+logging
+datetime
+setuptools
+typing
+# -e .
