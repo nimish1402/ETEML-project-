@@ -1,19 +1,13 @@
-pandas
 numpy
-seaborn
+pandas
 matplotlib
-warnings
+seaborn
 scikit-learn
+ipykernel
 catboost
 xgboost
 dill
-pickle 
 flask
-os
-sys
-dataclasses
-logging
-datetime
-setuptools
-typing
+flask_cors
+lime
 # -e .
